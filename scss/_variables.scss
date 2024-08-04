@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Raleway";
+    src: url(/public/fonts/Raleway-Medium.woff2) format("woff2");
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+}
+
+:root {
+    --main-color: #E1EDE6;
+    --main-second-color: #598D66;
+    --main-font-color: #2C2D35;
+    --main-second-font-color: #86928B;
+
+    --transition: 0.2s;
+
+    --white-color: #F4F6F5;
+
+    --content-container: 165px;
+
+    --main-font: "Raleway"
+}
